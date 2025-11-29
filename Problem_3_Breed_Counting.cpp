@@ -6,6 +6,10 @@ const int MOD = 1e9 + 7;
 
 void helper()
 {
+
+    freopen("bcount.in", "r", stdin);
+    freopen("bcount.out", "w", stdout);
+
     ll n, q;
     cin >> n >> q;
 

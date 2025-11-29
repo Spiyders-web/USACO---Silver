@@ -4,6 +4,10 @@ typedef long long ll;
 
 int main()
 {
+
+    freopen("div7.in", "r", stdin);
+    freopen("div7.out", "w", stdout);
+
     ll n;
     cin >> n;
     vector<ll> arr(n);
