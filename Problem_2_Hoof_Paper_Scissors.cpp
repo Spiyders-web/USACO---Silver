@@ -36,7 +36,7 @@ void helper()
         }
     }
 
-    vector<vector<ll>> suffix(n + 2, vector<ll>(3, 0));
+    vector<vector<ll>> suffix(n + 2, vector<ll>(3, 0)); // suffix[n] is linked to suffix[n+1], so size (n+2);
 
     for (int i = n; i >= 1; i--)
     {

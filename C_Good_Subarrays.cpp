@@ -17,8 +17,8 @@ void helper()
     {
         arr[i] = (s[i] - '0') - 1; // conversion of string to int and -1 for 0 based indexing.
     }
-    // map<ll,ll> cnt;
-    unordered_map<ll, ll> cnt; // just for the sake of seeking the runtime difference from naked eye. HAHA!!!
+    // map<ll,ll> cnt;  (72ms) run time
+    unordered_map<ll, ll> cnt;//(46ms) run time just for the sake of seeking the runtime difference from naked eye. HAHA!!!
     ll prefix = 0;
     ll ans = 0;
 
