@@ -1,0 +1,1 @@
+{"name":"Local: Nearest_smaller_element","url":"d:\\Competitive Programming\\USACO - Silver\\Nearest_smaller_element.cpp","tests":[{"id":1765296573149,"input":"8\n1 3 4 2 5 3 4 2","output":"-1 1 3 1 2 2 3 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive Programming\\USACO - Silver\\Nearest_smaller_element.cpp","group":"local","local":true}

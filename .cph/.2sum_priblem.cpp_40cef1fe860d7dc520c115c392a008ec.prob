@@ -1,0 +1,1 @@
+{"name":"Local: 2sum_priblem","url":"d:\\Competitive Programming\\USACO - Silver\\2sum_priblem.cpp","tests":[{"id":1765189013694,"input":"8\n1 5 4 6 9 7 9 10\n12","output":"5 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive Programming\\USACO - Silver\\2sum_priblem.cpp","group":"local","local":true}
