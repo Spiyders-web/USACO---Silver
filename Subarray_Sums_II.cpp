@@ -29,7 +29,7 @@ void helper()
     cout << ans << endl;
 }
 // complexity :- O(n logn); because map uses bst;
-// O(n) if used on ordered map
+// O(n) if used on unordered map
 
 int main()
 {

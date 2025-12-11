@@ -44,6 +44,11 @@ void helper()
     }
 }
 
+ //  Time Complexity :- O(n);
+ // space complexity :- O(1);
+
+
+
 int main()
 {
     ios::sync_with_stdio(false);

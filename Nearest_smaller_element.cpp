@@ -14,7 +14,7 @@ void helper()
 
     loop(i, 0, n) cin >> arr[i];
 
-    stack<ll> s; // store values
+    stack<ll> s;  // store values
 
     for (int i = 0; i < n; i++)
     {
