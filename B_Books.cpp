@@ -30,6 +30,11 @@ void helper()
 
     cout << ans << '\n';
 }
+//Time Complexity :- O(n);
+//space complexity :- O(1);
+
+// But I think this problem can be solved using binary search also.
+
 
 int main()
 {
